@@ -1,4 +1,4 @@
 # aditya-first
 This is my first Git Repository
 <br>
-Author - Aditya
+Author - Aditya (aditya tiwari)
